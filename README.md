@@ -9,4 +9,5 @@
 6) ![This is an image](https://casanova.i-really-dont-want-to.live/5AgGyIjBl.png)
 7) Download the file uploaded in repository
 8) Click on "Destinations" and go to the "Custom uploader settings"
-9) Click on "Import" and select ![This is an image](https://casanova.i-really-dont-want-to.live/5AgHRZvgP.png)
+9) Click on "Import" and select : ![This is an image](https://casanova.i-really-dont-want-to.live/5AgHRZvgP.png)
+10) 
