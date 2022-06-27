@@ -1,0 +1,16 @@
+{
+    "Version": "13.6.1",
+    "Name": "sxcu.net - githubcfreemepq.is-a-useless.engineer",
+    "DestinationType": "ImageUploader",
+    "RequestMethod": "POST",
+    "RequestURL": "https://githubcfreemepq.is-a-useless.engineer/api/files/create",
+    "Body": "MultipartFormData",
+    "FileFormName": "file",
+    "Arguments": {
+        "token": "d8bbb2c6-7554-43a0-a207-9f2cece07ebe"
+    },
+    "URL": "$json:url$",
+    "ThumbnailURL": "$json:thumb$",
+    "DeletionURL": "$json:del_url$",
+    "ErrorMessage": "$json:error$"
+}
