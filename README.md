@@ -10,4 +10,5 @@
 7) Download the file uploaded in repository
 8) Click on "Destinations" and go to the "Custom uploader settings"
 9) Click on "Import" and select : ![This is an image](https://casanova.i-really-dont-want-to.live/5AgHRZvgP.png)
-10) 
+10) Launch the casanova.json file and copy the content
+11) In the "Name" of the Body you have to name it "og_properties" when its done paste in the value the copied code in casanova.json
